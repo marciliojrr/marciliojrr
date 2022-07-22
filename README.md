@@ -1,3 +1,8 @@
+<p align="center">
+  <img src='https://gist.githubusercontent.com/revanth-reddy/f4dd30775e8de8a4a4b1aafe04cce172/raw/060f639dee04e8d1a8e766c715416497540741f9/hello.gif' enconde></img>
+</p>
+
+
 <h1 align="center">I'm Marcílio Júnior</h1>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/marciliojrr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
