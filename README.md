@@ -11,15 +11,15 @@
 </div>
 
 <div>
+  <a href=""></a>
   
   ![Snake animation](https://github.com/marciliojrr/marciliojrr/blob/output/github-contribution-grid-snake.svg) 
   
- </div>
+</div>
+
   
-
-
 ## 👋🏼 About me
-
+- 🎓 Computer Engineering Undergraduate Student at [Universidade Federal da Paraíba (UFPB)](https://www.ufpb.br/)
 - 🔭 Today I work with web development (full-stack) — Internship at <a href="http://www.novetech.com.br/">Novetech Soluções Tecnológicas</a>
 - 🌱 I'm learning React, React-Native and technologies related to full-stack development
 
@@ -38,7 +38,3 @@ These are the languages, libraries and frameworks I've had contact with.
   <img align="center" alt="marciliojrr-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 
 </div>
-
-  ##
-  
- 
