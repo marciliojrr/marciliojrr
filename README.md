@@ -5,8 +5,8 @@
 
 <h1 align="center">I'm Marcílio Júnior</h1>
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/marciliojrr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marciliojr@outlook.com"><img src="https://img.shields.io/badge/-Marcílio_Júnior-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marciliojrr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:marciliojr@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Marcílio_Júnior-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
   
 <div align="center">
